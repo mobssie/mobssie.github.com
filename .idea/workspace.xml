@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="241000cc-f26b-45ce-bd3a-14f8b84e11ef" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/_posts/2018-05-24-JS-get-img-src-value.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-05-24-JS-get-img-src-value.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-05-24-Jquery-attr-prop.md" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2018-05-25-node-append-file.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -16,11 +16,20 @@
     <splitter split-orientation="vertical" split-proportion="0.61513686">
       <split-first>
         <leaf>
-          <file leaf-file-name="2018-05-24-JS-get-img-src-value.md" pinned="false" current-in-tab="true">
+          <file leaf-file-name="2018-05-24-JS-get-img-src-value.md" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/_posts/2018-05-24-JS-get-img-src-value.md">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="150">
                   <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="2018-05-25-node-append-file.md" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/_posts/2018-05-25-node-append-file.md">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="75">
+                  <caret line="5" column="3" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
                 </state>
               </provider>
             </entry>
@@ -184,6 +193,7 @@
         <option value="$PROJECT_DIR$/_layouts/default.html" />
         <option value="$PROJECT_DIR$/about.md" />
         <option value="$PROJECT_DIR$/_posts/2018-05-24-JS-get-img-src-value.md" />
+        <option value="$PROJECT_DIR$/_posts/2018-05-25-node-append-file.md" />
       </list>
     </option>
   </component>
@@ -197,9 +207,9 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="78" />
+    <option name="x" value="562" />
     <option name="y" value="23" />
-    <option name="width" value="1362" />
+    <option name="width" value="878" />
     <option name="height" value="824" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -405,7 +415,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1527093188575</updated>
-      <workItem from="1527093192177" duration="18521000" />
+      <workItem from="1527093192177" duration="19810000" />
     </task>
     <task id="LOCAL-00001" summary="포스트 정리">
       <created>1527100978895</created>
@@ -477,14 +487,22 @@
       <option name="project" value="LOCAL" />
       <updated>1527149346978</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="정돈중">
+      <created>1527168578097</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1527168578097</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18521000" />
+    <option name="totallyTimeSpent" value="19810000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="78" y="23" width="1362" height="824" extended-state="0" />
+    <frame x="562" y="23" width="878" height="824" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -499,7 +517,7 @@
       <window_info anchor="bottom" id="Terminal" sideWeight="0.8071808" visible="true" weight="0.11789773" />
       <window_info id="Capture Tool" />
       <window_info id="Designer" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16136363" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.37559807" />
       <window_info anchor="right" id="Database" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -860,6 +878,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-05-25-node-append-file.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="3" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
         </state>
       </provider>
     </entry>
