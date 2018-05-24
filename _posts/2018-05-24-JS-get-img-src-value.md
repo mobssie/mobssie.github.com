@@ -6,3 +6,5 @@ categories: [javaScript]
 ---
 
 #### How get the image src value
+
+
