@@ -9,6 +9,20 @@ categories: [tool]
 
 ##### 줄바꿈<br>
 
+```html
+1. <br> 태그 사용
+2. 끝에 뛰어쓰기 두번
+```
 
+##### 수평선(Horizontal Rule) <br>
 
+```html
+---
+(Hyphens)
 
+***
+(Asterisks)
+___
+(Underscores)
+
+```

@@ -4,6 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I am freelance developer. Currently doing more in backend, focused in Python and Django.
+I am Front developer.
+Currently doing more in JavaScript, focused in React and Vue.
 
-email: agus[at]python.web.id
+email: mobssie.jung@gmail.com

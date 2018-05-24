@@ -123,22 +123,18 @@ layout: compress
           {% endif %}
           <div class="social">
             <ul>
-              {% for link in site.social %}
-                <li><a href="{{ link.link }}" target="_blank"><i class="fa {{ link.icon }}"></i></a></li>
-              {% endfor %}
+                <li><a href="https://github.com/mobssie" target="_blank"><i class="fa fa-github"></i></a></li>
             </ul>
           </div>
           <div class="search" id="js-search">
-            <input type="text" placeholder="(sitemap)~$ type to search" class="search__input form-control" id="js-search__input">
+            <input type="text" placeholder="" class="search__input form-control" id="js-search__input">
             <ul class="search__results" id="js-search__results"></ul>
           </div>
           <hr />
           <ul class="sidebar-nav">
             <strong>Navigation</strong>
             <li><a href="/">Home</a></li>
-            {% for i in site.urls %}
-              <li><a class="about" href="{{ i.url }}">{{ i.text }}</a></li>
-            {% endfor %}
+            <li><a class="about" href="/about/">About Me</a></li>
           </ul>
         </div>
         <!-- end /.fixed-condition -->
