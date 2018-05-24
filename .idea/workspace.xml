@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="241000cc-f26b-45ce-bd3a-14f8b84e11ef" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/_posts/2018-05-24-How-to-MarkDown.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2018-05-24-Jquery-attr-prop.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/category/jquery.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2018-05-24-JS-get-img-src-value.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/category/JavaScript.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_data/projects.json" beforeDir="false" afterPath="$PROJECT_DIR$/_data/projects.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-05-23-intelliJ-Short-Cut-Key.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-05-23-intelliJ-Short-Cut-Key.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -30,11 +26,38 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="2018-05-24-Jquery-attr-prop.md" pinned="false" current-in-tab="true">
+          <file leaf-file-name="2018-05-24-Jquery-attr-prop.md" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/_posts/2018-05-24-Jquery-attr-prop.md">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="45">
                   <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="tool.md" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/category/tool.md">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="30">
+                  <caret line="2" column="16" selection-end-line="5" selection-end-column="3" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="JavaScript.md" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/category/JavaScript.md">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="45">
+                  <caret line="3" column="8" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="2018-05-24-JS-get-img-src-value.md" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/_posts/2018-05-24-JS-get-img-src-value.md">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="105">
+                  <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
                 </state>
               </provider>
             </entry>
@@ -55,7 +78,7 @@
             <entry file="file://$PROJECT_DIR$/_posts/2018-05-24-How-to-MarkDown.md">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="120">
-                  <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+                  <caret line="8" selection-start-line="8" selection-end-line="8" />
                 </state>
               </provider>
             </entry>
@@ -136,6 +159,8 @@
       <list>
         <option value="HTML File" />
         <option value="md" />
+        <option value="Category" />
+        <option value="markdown Post" />
       </list>
     </option>
   </component>
@@ -172,7 +197,6 @@
         <option value="$PROJECT_DIR$/_site/index.html" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/Gemfile" />
-        <option value="$PROJECT_DIR$/category/tool.md" />
         <option value="$PROJECT_DIR$/_layouts/default.html" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/_config.yml" />
@@ -183,6 +207,9 @@
         <option value="$PROJECT_DIR$/_posts/2018-05-25-Jquery-attr-prop.md" />
         <option value="$PROJECT_DIR$/_posts/2018-05-24-How-to-MarkDown.md" />
         <option value="$PROJECT_DIR$/_posts/2018-05-24-Jquery-attr-prop.md" />
+        <option value="$PROJECT_DIR$/category/tool.md" />
+        <option value="$PROJECT_DIR$/category/JavaScript.md" />
+        <option value="$PROJECT_DIR$/_posts/2018-05-24-JS-get-img-src-value.md" />
       </list>
     </option>
   </component>
@@ -404,7 +431,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1527093188575</updated>
-      <workItem from="1527093192177" duration="14548000" />
+      <workItem from="1527093192177" duration="15390000" />
     </task>
     <task id="LOCAL-00001" summary="포스트 정리">
       <created>1527100978895</created>
@@ -448,11 +475,18 @@
       <option name="project" value="LOCAL" />
       <updated>1527138382994</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="포스트 올리기">
+      <created>1527146543301</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1527146543301</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14548000" />
+    <option name="totallyTimeSpent" value="15390000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="413" y="23" width="1027" height="824" extended-state="0" />
@@ -527,7 +561,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="포스트 정리" />
-    <option name="LAST_COMMIT_MESSAGE" value="포스트 정리" />
+    <MESSAGE value="포스트 올리기" />
+    <option name="LAST_COMMIT_MESSAGE" value="포스트 올리기" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/.gitignore">
@@ -752,21 +787,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/category/tool.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="5" selection-end-column="3" />
-        </state>
-      </provider>
-      <provider editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="30">
-            <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/category/jquery.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -795,7 +815,15 @@
     <entry file="file://$PROJECT_DIR$/_posts/2018-05-24-How-to-MarkDown.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/category/JavaScript.markdown">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
         </state>
       </provider>
     </entry>
@@ -803,6 +831,35 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
           <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/category/tool.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="16" selection-end-line="5" selection-end-column="3" />
+        </state>
+      </provider>
+      <provider editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="30">
+            <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/category/JavaScript.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="8" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-05-24-JS-get-img-src-value.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>
