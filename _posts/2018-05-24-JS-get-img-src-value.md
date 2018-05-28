@@ -6,5 +6,9 @@ categories: [javaScript]
 ---
 
 #### How get the image src value
-
-
+```html
+<img id="imgThumb" name="img_thumb" src="/pictures/img_thumb.png"  alt="imgThumb" />
+```
+```javascript
+if (document.getElementById('imgThumb').getAttribute('src') == "pictures/imgThumb.png")
+```

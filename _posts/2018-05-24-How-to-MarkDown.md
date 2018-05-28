@@ -7,7 +7,7 @@ categories: [tool]
 
 <br><br>
 
-#### 줄바꿈<br>
+#### [줄바꿈]<br>
 
 ```html
 1. <br> 태그 사용
@@ -15,7 +15,7 @@ categories: [tool]
 ```
 <br><br>
 
-#### 수평선(Horizontal Rule) <br>
+#### [수평선(Horizontal Rule)] <br>
 
 ```html
 ---
@@ -27,20 +27,34 @@ ___
 (Underscores)
 
 ```
-<br><br>
+<br>
 --- <br>
 (Hyphens)<br><br>
 
 *** <br>
 (Asterisks)<br><br>
 ___ <br>
-(Underscores)<br><br>
+(Underscores)
+<br><br>
 
-#### 인라인(inline) 코드 강조  <br><br>
+#### [인라인(inline) 코드 강조]  <br>
 
 ```html
 `코드`를 강조할때
 ```
-<br>
+
 `코드`를 강조할때
 <br><br>
+
+
+#### [굵게, 기울임]  <br>
+```html
+본문을 쓰다가 굵은 글씨로 강조하고 싶은 경우 **앞뒤로 별표**를 두 개씩 넣기.
+```
+본문을 쓰다가 굵은 글씨로 강조하고 싶은 경우 **앞뒤로 별표**를 두 개씩 넣기.<br>
+
+```html
+본문을 쓰다가 기울인 이탤릭 글씨로 쓰고 경우 *앞뒤로 별표*를 하나씩 넣기.
+```
+본문을 쓰다가 기울인 이탤릭 글씨로 쓰고 경우 *앞뒤로 별표*를 하나씩 넣기.<br>
+

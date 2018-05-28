@@ -3,8 +3,8 @@ description: Technology warehouse
 author: Mobssie
 github: https://github.com/mobssie
 about: FrontEnd Developer
-disqus_shortname: stackproblems
-google_analytics: UA-XXXXXXXX-Y
+disqus_shortname: mobssie-technology-warehouse
+google_analytics: UA-119992833-1
 avatar_url: /static/img/jurip.jpeg
 
 enableTags: true
@@ -28,7 +28,7 @@ social:
 #      link: "https://github.com/mobssie"
 
 share:
-  twitter_username: agusmakmun6
+  twitter_username: mobssie1
   fb_appid: 1749788565247320
 
 urls:
