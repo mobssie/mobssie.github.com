@@ -30,6 +30,7 @@ input#js-search__input {
   padding: 10px;
 }
 .search__result-date {
+  display: none;
   color: #BBB;
   position: absolute;
   right: 12px;
