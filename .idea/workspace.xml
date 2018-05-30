@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="241000cc-f26b-45ce-bd3a-14f8b84e11ef" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/_posts/2018-05-29-How-to-Search-Array.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/category/api.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2018-05-29-How-to-Search-Array.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-05-29-How-to-Search-Array.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -45,8 +43,8 @@
       <file leaf-file-name="2018-05-29-How-to-Search-Array.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_posts/2018-05-29-How-to-Search-Array.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="71" lean-forward="true" selection-start-line="71" selection-end-line="71" />
+            <state relative-caret-position="450">
+              <caret line="76" column="35" selection-start-line="76" selection-start-column="35" selection-end-line="76" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -341,7 +339,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1527093188575</updated>
-      <workItem from="1527093192177" duration="40868000" />
+      <workItem from="1527093192177" duration="40940000" />
     </task>
     <task id="LOCAL-00001" summary="포스트 정리">
       <created>1527100978895</created>
@@ -459,7 +457,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="40868000" />
+    <option name="totallyTimeSpent" value="40940000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="559" y="23" width="881" height="824" extended-state="0" />
@@ -910,8 +908,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2018-05-29-How-to-Search-Array.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="71" lean-forward="true" selection-start-line="71" selection-end-line="71" />
+        <state relative-caret-position="450">
+          <caret line="76" column="35" selection-start-line="76" selection-start-column="35" selection-end-line="76" selection-end-column="35" />
         </state>
       </provider>
     </entry>

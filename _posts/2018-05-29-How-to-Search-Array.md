@@ -64,9 +64,9 @@ console.log(nums[over]);
 
 #### 6. `map()`
 
-#### 5. `reduce()`
+#### 7. `reduce()`
 
-
+<br><br>
 
 
 
