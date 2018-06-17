@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "How to Search an Array"
-date:   2018-05-25 00:18:23 +0700
-categories: [javascript]
+date:   2018-05-29 00:18:23 +0700
+categories: [javaScript]
 ---
 
 ### 자바스크립트 배열 검색하는 방법
@@ -59,6 +59,21 @@ console.log(nums[over]);
 
 
 #### 4. `filter()`
+
+```javascript
+function isValue(value){
+    return value >= 10;
+}
+var filtered = [1,3,6,10].filter(isValue);
+//
+```
+
+
+
+
+
+
+
 
 #### 5. `forEach()`
 
