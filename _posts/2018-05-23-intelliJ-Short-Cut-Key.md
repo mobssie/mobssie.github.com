@@ -11,4 +11,4 @@ Command + F : 단어 찾기
 Command + R : 단어 바꾸기  
 Shift + Command + F : 전체에서 찾기
 Shift + Command + R : 전체에서 찾아 바꾸기
-
+Alt + Enter : 경로 찾기
