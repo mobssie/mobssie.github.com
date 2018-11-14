@@ -5,6 +5,8 @@ date:   2018-11-11 00:18:23 +0700
 categories: [javaScript]
 ---
 <br/><br/><br/><br/><br/>
+Array 객체의 index()와 splice()를 사용해 배열 요소를 삭제/치환.
+
 ```javascript
 var fruits = new Array("apple", "banana", "pineApple", "orange", "banana");
     // 배열에서 요소 삭제하기
