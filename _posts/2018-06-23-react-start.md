@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "REACT Install ~ 작업 시작하는법"
+title:  "React Install ~ 작업 시작하는법"
 date:   2018-06-23 00:18:23 +0700
 categories: [React]
 ---

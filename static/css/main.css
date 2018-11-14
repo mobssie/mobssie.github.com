@@ -157,7 +157,9 @@ div.col-sm-3 img.profile-avatar {
 .content img {
   max-width: 100%
 }
-
+.post-content .btn-sm{
+  margin: 3px 0;
+}
 /* Responsive Conditional */
 @media (min-width: 1024px) {
   .fixed-condition {

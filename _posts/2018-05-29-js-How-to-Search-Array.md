@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "How to Search an Array"
+title:  "javqscript 배열 검색하는 방법"
 date:   2018-05-29 00:18:23 +0700
 categories: [javaScript]
 ---

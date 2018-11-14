@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "node 업데이트 하는 방법"
+title:  "NodeJS 업데이트 하는 방법"
 date:   2018-11-13 00:18:23 +0700
 categories: [nodeJS, javaScript, React]
 ---
 
 
 <br><br>
-####node 업데이트 하는 방법
+### NodeJS 업데이트 하는 방법
 <br><br>
 NPM 캐시 지우고 재설치
 ```
