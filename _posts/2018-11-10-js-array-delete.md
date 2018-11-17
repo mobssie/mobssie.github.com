@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "javascript 배열 요소 삭제 또는 치환"
-date:   2018-11-11 00:18:23 +0700
+date:   2018-11-10 00:18:23 +0700
 categories: [javaScript]
 ---
 <br/><br/><br/><br/><br/>
