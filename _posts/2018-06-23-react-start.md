@@ -10,7 +10,7 @@ categories: [React]
 
 
 ```
-create-react-app react-test
+npm create-react-app react-test
 cd react-test
 ```
 

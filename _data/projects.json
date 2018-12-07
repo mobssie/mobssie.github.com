@@ -5,7 +5,7 @@
 		"image": "placeholder.jpg",
 		"url": "https://www.google.com",
 		"date": "Jan 2014",
-		"tags": ["Angular JS","API"]
+		"tags": ["Angular JS","API","React"]
 	},
 	{
 		"name": "Cool project 2",
@@ -30,13 +30,13 @@
 	{
 		"name": "Cool project 5",
 		"image": "placeholder.jpg",
-		"date": "Oct 2016",
+		"date": "O 2016",
 		"tags": ["Python","nodejs"]
 	},
 	{
-		"name": "Cool project 6",
+		"name": "",
 		"image": "placeholder.jpg",
-		"date": "Oct 2016",
-		"tags": ["Python","nodejs"]
+		"date": "Jan 2016",
+		"tags": ["웹표준","접근성"]
 	}
 ]
