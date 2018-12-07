@@ -2,7 +2,7 @@
 layout: post
 title:  "React 폼(Form) 유효성 검사 하기"
 date:   2018-11-14 00:18:23 +0700
-categories: [React, Validation]
+categories: [React, validation]
 ---
 <br/><br/><br/><br/>
 
@@ -80,6 +80,5 @@ const Form = ({value, onChange, onCreate, onKeyPress}) => {
 : https://yazzya.blog.me/221362860933  
 : https://momentjs.com/ (Moment.js)    
 : https://github.com/chriso/validator.js (validator.js)  
-:
 
 <br/><br/><br/>

@@ -1,6 +1,6 @@
 ---
 layout: posts_by_category
-categories: jquery
+categories: Jquery
 title: Jquery
 permalink: /category/jquery
 ---
