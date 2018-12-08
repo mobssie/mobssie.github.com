@@ -15,27 +15,6 @@ categories: [tool]
 ```
 <br><br>
 
-#### [수평선(Horizontal Rule)] <br>
-
-```html
----
-(Hyphens)
-
-***
-(Asterisks)
-___
-(Underscores)
-
-```
-<br>
---- <br>
-(Hyphens)<br><br>
-
-*** <br>
-(Asterisks)<br><br>
-___ <br>
-(Underscores)
-<br><br>
 
 #### [인라인(inline) 코드 강조]  <br>
 
@@ -56,5 +35,52 @@ ___ <br>
 ```html
 본문을 쓰다가 기울인 이탤릭 글씨로 쓰고 경우 *앞뒤로 별표*를 하나씩 넣기.
 ```
-본문을 쓰다가 기울인 이탤릭 글씨로 쓰고 경우 *앞뒤로 별표*를 하나씩 넣기.<br>
+본문을 쓰다가 기울인 이탤릭 글씨로 쓰고 경우 *앞뒤로 별표*를 하나씩 넣기.<br><br>
 
+#### 링크  <br>
+```html
+[링크명](http://some-url.com)
+```
+[링크명](http://some-url.com)<br><br>
+
+#### 블럭인용 <br>
+```html
+> 각 문단의 첫 줄 앞에
+```
+> 각 문단의 첫 줄 앞에
+
+<br>
+
+#### 코드블럭 <br>
+```html
+줄의 처음을 Tab으로 시작
+```
+    줄의 처음을 Tab으로 시작
+
+<br><br>
+
+#### [수평선(Horizontal Rule)] <br>
+
+```html
+---
+(Hyphens)
+
+***
+(Asterisks)
+___
+(Underscores)
+
+```
+<br>
+--- <br>
+(Hyphens)<br><br>
+
+*** <br>
+(Asterisks)<br><br>
+___ <br>
+(Underscores)
+<br><br><br><br>
+
+**참고 사이트**  
+: https://nolboo.kim/blog/2014/04/15/how-to-use-markdown/
+<br><br><br><br><br><br><br><br>
