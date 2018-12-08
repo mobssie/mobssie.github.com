@@ -8,8 +8,7 @@ categories: [javaScript]
 ### 자바스크립트 배열 검색하는 방법
 <br>
 
-#### 1. 일반적으로 `for문` 사용
-
+#### 1. 일반적으로 `for문` 사용  
 ```javascript
 var fruit = false;
 for(var i = 0 ; i< arr.length ; i++){
@@ -18,9 +17,8 @@ for(var i = 0 ; i< arr.length ; i++){
     }
 }
 ```
-<br><br>
 
-#### Array 메서드를 이용해 배열을 검색해서 특정값을 찾을 수 있다.<br><br>
+#### Array 메서드를 이용해 배열을 검색해서 특정값을 찾을 수 있다.<br><br><br>
 
 
 #### 2. `indexOf()`와 `lastIndex()`
@@ -67,15 +65,39 @@ function isValue(value){
 var filtered = [1,3,6,10].filter(isValue);
 //
 ```
-
-
-
-
-
-
-
+<br><br>
 
 #### 5. `forEach()`
+`forEach()` 메서드는 배열 요소마다 한 번씩 주어진 함수를 실행합니다. 
+
+```javascript
+var array1 = ['a', 'b', 'c'];
+
+array1.forEach(function(element) {
+  console.log(element);
+});
+
+// expected output: "a"
+// expected output: "b"
+// expected output: "c"
+```
+```javascript
+arr.forEach(callback(currentValue[, index[, array]])[, thisArg]);
+```
+<br>
+
+> `callback`  <br>
+> 각 요소에 대해 실행할 인수 세개를 취하는 함수:  
+>>> `currentValue`  <br>
+> 배열에서 처리될 현재 요소의 값  
+>>>`index Optional`  <br>
+> 배열에서 처리될 현재 요소의 인덱스.  
+>>> `array Optional`  <br>
+> forEach()가 적용되는 배열.  
+> `thisArg Optional`  <br>
+> callback을 실행할 때 this (예: 참조 객체)로서 사용하는 값.  
+
+<br><br>
 
 #### 6. `map()`
 
@@ -101,3 +123,8 @@ stringObj.slice(start, [end])
 ***
 
 <br><br>
+
+
+**참고 사이트**  
+: https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach
+<br><br><br><br><br><br><br><br>

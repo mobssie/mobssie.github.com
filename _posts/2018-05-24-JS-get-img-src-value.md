@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "How get the image src value"
+title:  "image src value값 바꾸기"
 date:   2018-05-25 00:18:23 +0700
 categories: [javaScript]
 ---
+<br><br>
 
-#### image src value값 바꾸기
+#### How get the image src value
+
 ```html
 <img id="imgThumb" name="img_thumb" src="/pictures/img_thumb.png"  alt="imgThumb" />
 ```
@@ -30,3 +32,4 @@ function img_find() {
 
 }
 ```
+<br><br><br><br><br><br><br><br>
