@@ -100,7 +100,9 @@ arr.forEach(callback(currentValue[, index[, array]])[, thisArg]);
 <br><br>
 
 #### 6. `map()`
-`map()` 메서드는 배열 내의 모든 요소 각각에 대하여 주어진 함수를 호출한 결과를 모아 새로운 배열을 반환한다.<br><br>
+`map()` 메서드는 배열 내의 모든 요소 각각에 대하여 주어진 함수를 호출한 결과를 모아 새로운 배열을 반환한다.
+<br><br>
+
 ```javascript   
 var array1 = [1, 4, 9, 16];
 
@@ -110,42 +112,44 @@ const map1 = array1.map(x => x * 2);
 console.log(map1);
 // expected output: Array [2, 8, 18, 32]   
 ```
+<br>
+
 ```javascript   
 arr.map(callback(currentValue[, index[, array]])[, thisArg])
-```   
-> callback
-> 새로운 배열 요소를 생성하는 함수. 다음 세 가지 인수를 가집니다.
->> currentValue
-> 처리할 현재 요소.
->> index Optional
-> 처리할 현재 요소의 인덱스.
->> array Optional
-> map()을 호출한 배열.
-> thisArg Optional
+```
+<br> 
+
+> callback<br>
+> 새로운 배열 요소를 생성하는 함수. 다음 세 가지 인수를 가집니다.<br><br>
+>> currentValue<br>
+> 처리할 현재 요소.<br>
+>> index | Optional<br>
+> 처리할 현재 요소의 인덱스.<br>
+>> array | Optional<br>
+> map()을 호출한 배열.<br><br>
+> thisArg | Optional<br>
 > callback을 실행할 때 this로 사용되는 값.
-
-
-
-#### 7. `reduce()`
 
 <br><br>
 
 
+#### 7. `reduce()`
+<br>
+####배열의 일부 추출하기   
+`slice()`메소드는 배열의 일부를 복사해 새로운 배열을 만든다.<br>
 
-
-#### 배열의 일부 추출하기
 
 ```javascript
 var fruit = ["Apple","Banana","Orange","kiwi","melon"];
 var elements  =  fruit.slice(1,3);
 console.log(elements);
 ```
-`slice()`메소드는 배열의 일부를 복사해 새로운 배열을 만든다.<br>
+<br>
 
-***
+```javascript
 stringObj.slice(start, [end])
 
-***
+```
 
 <br><br>
 
