@@ -2,7 +2,7 @@
 layout: post
 title:  "javascript 배열 검색하는 방법"
 date:   2018-05-29 00:18:23 +0700
-categories: [javaScript]
+categories: [javascript]
 ---
 
 ### 자바스크립트 배열 검색하는 방법

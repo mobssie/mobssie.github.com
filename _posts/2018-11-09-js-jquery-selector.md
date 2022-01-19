@@ -2,7 +2,7 @@
 layout: post
 title:  "Javascript로 클래스 선택하여 제어하기"
 date:   2018-11-09 00:18:23 +0700
-categories: [javaScript, Jquery]
+categories: [javascript, Jquery]
 ---
 
 

@@ -2,7 +2,7 @@
 layout: post
 title:  "image src value값 바꾸기"
 date:   2018-05-25 00:18:23 +0700
-categories: [javaScript]
+categories: [javascript]
 ---
 <br><br>
 

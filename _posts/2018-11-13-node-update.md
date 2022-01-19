@@ -2,7 +2,7 @@
 layout: post
 title:  "NodeJS 업데이트 하는 방법"
 date:   2018-11-13 00:18:23 +0700
-categories: [nodeJS, javaScript, React]
+categories: [nodeJS, javascript, React]
 ---
 
 

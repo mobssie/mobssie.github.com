@@ -2,7 +2,7 @@
 layout: post
 title:  "javascript concat과 apply 사용하기"
 date:   2018-11-11 00:18:23 +0700
-categories: [javaScript]
+categories: [javascript]
 ---
 <br/><br/><br/><br/><br/>
 ```javascript
